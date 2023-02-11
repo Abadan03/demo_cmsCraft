@@ -1,0 +1,9 @@
+baseUrl: null
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: 'http://localhost/demo3/web/'
+primary: true
+siteGroup: 4688c068-40fa-49a0-8eae-bbc3044b2d6b # test
+sortOrder: 1
